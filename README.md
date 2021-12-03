@@ -1,5 +1,10 @@
 # ai-agents
 
+## Integrantes: 
+### Michelle González Hernández - 1871074
+### Melissa González Nebrijo - 1832127
+
+
 First attemp to create a multi agent framework for the lecture: Introducción a la inteligencia Artificial. 
 
 ## Install
