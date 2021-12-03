@@ -139,7 +139,7 @@ class CleanerAgent extends Agent {
       }
     }
     /*
-    it is checked that the old position is different from the previous position to which 
+    It is checked that the old position is different from the previous position to which 
     the mouse is. This is done so that it cannot be returned. And then it cheks the 
     condition when the mouse has already passed though the positions. 
     */
